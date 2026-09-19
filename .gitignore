@@ -6,3 +6,5 @@ dist/
 .wrangler/
 *.log
 .artifacts/
+
+.npm-cache/
